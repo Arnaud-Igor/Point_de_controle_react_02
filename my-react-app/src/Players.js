@@ -1,58 +1,58 @@
+import jackGrealish from './PlayersImages/jack-grealish.webp'
+import KevinDeBruyne from './PlayersImages/kevin-de-bruyne.webp'
+import erlingHaaland from './PlayersImages/erling-haaland.webp'
+import bernadoSilva from './PlayersImages/bernardo-silva.webp'
+import kyleWalker from './PlayersImages/kyle-walker.webp'
+import philFolden from './PlayersImages/phil-foden.webp'
+
 export const players = [
     {
-        nom: "Vinicius JR",
-        equipe: "Real Madrid FC",
-        nationalite: "Brésilien",
-        numero: "7",
-        age: "23",
-        imageJoueur: ""
-    },
-    {
-        nom: "Cristiano Ronaldo",
-        equipe: "Al-Nassr FC",
-        nationalite: "Portugais",
-        numero: "7",
-        age: "39",
-        imageJoueur: ""
-    },
-    {
-        nom: "Harry Kane",
-        equipe: "Bayern Munich",
-        nationalite: "Anglais",
-        numero: "9",
-        age: "30",
-        imageJoueur: ""
-    },
-    {
-        nom: "De Bruyne",
+        nom: "Jack Grealish",
         equipe: "Manchester City FC",
-        nationalite: "Belge",
+        nationalite: "Angleterre",
+        numero: "10",
+        age: "28",
+        imageJoueur: jackGrealish
+    },
+    {
+        nom: "Bernado Silva",
+        equipe: "Manchester City FC",
+        nationalite: "Portugal",
+        numero: "20",
+        age: "29",
+        imageJoueur: bernadoSilva
+    },
+    {
+        nom: "Erling Haaland",
+        equipe: "Manchester City FC",
+        nationalite: "Norvège",
+        numero: "9",
+        age: "23",
+        imageJoueur: erlingHaaland
+    },
+    {
+        nom: "Kevin De Bruyne",
+        equipe: "Manchester City FC",
+        nationalite: "Belgique",
         numero: "17",
         age: "32",
-        imageJoueur: ""
+        imageJoueur: KevinDeBruyne
     },
     {
-        nom: "Sébastien Haller",
-        equipe: "Dortmund FC",
-        nationalite: "Ivoirien",
-        numero: "9",
-        age: "26",
-        imageJoueur: ""
+        nom: "Kyle Walker",
+        equipe: "Manchester City FC",
+        nationalite: "Angleterre",
+        numero: "2",
+        age: "34",
+        imageJoueur: kyleWalker
     },
     {
-        nom: "Mohamed Salah",
-        equipe: "Liverpool FC",
-        nationalite: "Egyptien",
-        numero: "10",
-        age: "31",
-        imageJoueur: ""
+        nom: "Phil Folden",
+        equipe: "Manchester City FC",
+        nationalite: "Angleterre",
+        numero: "47",
+        age: "24",
+        imageJoueur: philFolden
     },
-    {
-        nom: "Odilon Kossounou",
-        equipe: "Bayer 04 Leverkusen",
-        nationalite: "Ivoirien",
-        numero: "6",
-        age: "23",
-        imageJoueur: ""
-    },
+
 ]
